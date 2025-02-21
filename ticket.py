@@ -7,7 +7,7 @@ from datetime import date
 import sqlite3
 import random
 import string
-
+# below is the whole complete code
 # defining main window, geometry, and title
 top = Tk()
 top.geometry('550x400')
